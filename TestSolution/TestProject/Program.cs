@@ -13,5 +13,9 @@ namespace TestProject
             int x = 5;
             x = x * 4;
         }
+
+        static void g()
+        {
+        }
     }
 }
