@@ -10,6 +10,8 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
+            int x = 5;
+            int y = x + 2;
         }
     }
 }
