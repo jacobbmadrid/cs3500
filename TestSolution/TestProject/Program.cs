@@ -14,7 +14,7 @@ namespace TestProject
             x = x * 4;
         }
 
-        static foid f()
+        static void f()
         {
         }
     }
